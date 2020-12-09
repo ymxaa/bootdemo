@@ -1,0 +1,9 @@
+server:
+  port: 83
+  servlet:
+    context-path: /mianian
+spring:
+  redis:
+    host:
+    port:
+    password: 
